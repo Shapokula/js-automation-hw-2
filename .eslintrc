@@ -1,0 +1,31 @@
+	
+{
+    "env": {
+      "es2024": true
+    },
+    "rules": {
+        "no-var": "error",
+        "prefer-const": "error",
+        "no-use-before-define": "error",
+        "getter-return": "error",
+        "no-class-assign": "error",
+        "no-const-assign": "error",
+        "no-dupe-class-members": "error",
+        "no-dupe-else-if": "error",
+        "no-dupe-keys": "error",
+        "no-irregular-whitespace": "error",
+        "no-unreachable": "error",
+        "use-isnan": "error",
+        "arrow-body-style": "error",
+        "camelcase": "error",
+        "eqeqeq": "error",
+        "no-empty": "error",
+        "no-empty-function": "error",
+        "no-invalid-this": "error",
+        "no-multiple-empty-lines": "error",
+        "semi": "error",
+        "indent": "error",
+        "no-multi-spaces": "error",
+        "space-in-parens": "error"
+    }
+}
